@@ -1,10 +1,4 @@
 # 🛰️ Network Traffic Analysis — Task 5
-
-**Internship:** Cyber Security Virtual Internship  
-**Task:** Capture and Analyze Network Traffic using Wireshark  
-**Tool Used:** Wireshark  
-**File Analyzed:** `networkTraffic.pcapng`
-
 ---
 
 ## 🎯 Objective
